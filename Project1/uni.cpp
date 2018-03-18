@@ -8,5 +8,5 @@ int main() {
 	imshow("Ha", image);
 	waitKey(0);
 	return 0;
-	//We 've 
+	//We 've done gawe
 }
